@@ -1,0 +1,7 @@
+version: "3"
+services:
+  cookpad:
+    build: .
+    tty: true
+    volumes:
+      - ./workspace:/workspace

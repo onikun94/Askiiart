@@ -1,0 +1,1 @@
+s = "s = "..."; print s.sub("...",s)"; print s.sub("...",s)
