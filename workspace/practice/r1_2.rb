@@ -1,0 +1,11 @@
+ eval(%w(3.time
+       s
+       {
+       0
+       0
+       ;
+       p
+       u
+ts"YamaguchiTai
+yo%c:"%[32]}###
+####)*"")
